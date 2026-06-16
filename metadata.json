@@ -1,0 +1,6 @@
+{
+  "name": "Trevel Trust Challenge",
+  "description": "An interactive, high-fidelity Product Design Portfolio & Prototype for the Trevel Trust-Centered Internship Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
